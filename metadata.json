@@ -1,0 +1,6 @@
+{
+  "name": "BizBridge",
+  "description": "Start Small. Sell Smart. Grow Big. The modern digital marketplace and operating system for small businesses, individual entrepreneurs, and local creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
